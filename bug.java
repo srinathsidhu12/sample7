@@ -1,1 +1,1 @@
-This is the bug file
+This is the bug file from bug branch
